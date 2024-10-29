@@ -1,0 +1,10 @@
+name: ChurnPredictionApp-1
+title: Customer Churn Prediction
+username: kamwanaanalyst
+account: kamwanaanalyst
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13165859
+bundleId: 9285400
+url: https://kamwanaanalyst.shinyapps.io/ChurnPredictionApp-1/
+version: 1
